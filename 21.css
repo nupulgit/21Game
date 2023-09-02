@@ -60,3 +60,19 @@ main p{
     color: red;
     text-align: center;
 }
+
+
+//Mobile version code
+@media(max-width:600px)
+{
+    #cont
+    {
+        width: 80%;
+    }
+    header height{
+        font-size: 3rem;
+    }
+    header img{
+      width: 70%;
+    }
+}
